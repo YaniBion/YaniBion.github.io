@@ -1,2 +1,5 @@
-name: Yanina Biondi
-markdown: kramdown
+lsi:         false
+port: 4000
+pygments:    false
+markdown:    kramdown
+permalink:   date
