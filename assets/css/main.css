@@ -111,7 +111,7 @@ input, select, textarea {
 		-webkit-transition: color .2s ease-in-out;
 		-ms-transition: color .2s ease-in-out;
 		transition: color .2s ease-in-out;
-		color: #43B3E0;
+		color: #21B2A6;
 		text-decoration: underline;
 	}
 
@@ -2000,13 +2000,13 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #fafafa;
+			background-color: #2B343D;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
 		.wrapper.style3 {
-			background-color: #f4f4f4;
-			text-shadow: 1px 1px 0px #fff;
+			background-color: #2B343D;
+/*			text-shadow: 1px 1px 0px #fff;*/
 		}
 
 		.wrapper.style4 {
