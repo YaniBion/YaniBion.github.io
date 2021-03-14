@@ -101,7 +101,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #888;
+		color: #fff;
 		font-weight: 300;
 		font-size: 13pt;
 	}
@@ -125,7 +125,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #3e3e3e;
+		color: #fff;
 	}
 
 	i, em {
@@ -151,7 +151,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3e3e3e;
+		color: #fff;
 		margin: 0 0 0.75em 0;
 	}
 
@@ -195,7 +195,7 @@ input, select, textarea {
 	hr {
 		border: 0;
 		border-top: solid 1px #444;
-		border-top-color: rgba(0, 0, 0, 0.35);
+		border-top-color: rgba(255, 255, 255, 0.35);
 		box-shadow: 0px 1px 0px 0px rgba(255, 255, 255, 0.1);
 		height: 1px;
 		margin: 3em 0;
@@ -1996,7 +1996,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #fff;
+			background-color: #2B343D;
 		}
 
 		.wrapper.style2 {
@@ -2010,8 +2010,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
-			color: #999;
+			background-color: #2B343D;
+			color: #fff;
 			text-shadow: -1px -1px 0px #181818;
 		}
 
@@ -2037,8 +2037,8 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #77c969;
-		text-align: center;
+		background-color: #21B2A6;
+		text-align: left;
 		position: fixed;
 		left: 0;
 		top: 0;
@@ -2114,7 +2114,7 @@ input, select, textarea {
 			border-radius: 100%;
 			width: 20em;
 			height: 20em;
-			margin: 0;
+			margin: 1em;
 		}
 
 			#top .image img {
@@ -2141,7 +2141,7 @@ input, select, textarea {
 /* Copyright */
 
 	#copyright {
-		color: #77c969;
+		color: #fff;
 		font-size: 1em;
 		line-height: 1em;
 		list-style: none;
