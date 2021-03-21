@@ -1769,7 +1769,7 @@ input, select, textarea {
 		height: 3.75em;
 		line-height: 3.85em;
 		letter-spacing: auto;
-		padding: 0 4em;
+		padding: 0 20%;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -1917,7 +1917,7 @@ input, select, textarea {
 			button,
 			.button {
 				padding: 0;
-				width: 80%;
+				width: 100%;
 			}
 
 		}
