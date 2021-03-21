@@ -1765,11 +1765,11 @@ input, select, textarea {
 		cursor: pointer;
 		display: inline-block;
 		font-size: auto;
-		font-weight: 400;
-		height: 3.75em;
+		font-weight: auto;
+		height: 10%;
 		line-height: 3.85em;
 		letter-spacing: auto;
-		padding: 0 20%;
+		padding: 0 10%;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -1823,7 +1823,7 @@ input, select, textarea {
 		input[type="button"].small,
 		button.small,
 		.button.small {
-			font-size: 0.8em;
+			font-size: 0.5em;
 		}
 
 		input[type="submit"].big,
