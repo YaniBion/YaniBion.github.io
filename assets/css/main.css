@@ -1768,7 +1768,7 @@ input, select, textarea {
 		font-weight: 400;
 		height: 3.75em;
 		line-height: 3.85em;
-		letter-spacing: 2px;
+		letter-spacing: auto;
 		padding: 0 4em;
 		text-align: center;
 		text-decoration: none;
@@ -1917,7 +1917,7 @@ input, select, textarea {
 			button,
 			.button {
 				padding: 0;
-				width: 100%;
+				width: 80%;
 			}
 
 		}
